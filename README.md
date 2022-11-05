@@ -1,5 +1,5 @@
-# Free-Host-for-python
-a FREE host for python codes 😋
+# Free-Hosting-For-Python
+a FREE hosting For Python Codes 😋
 
 
 If you want free hosting, follow the steps below 😎
